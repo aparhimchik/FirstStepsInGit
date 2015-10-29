@@ -1,4 +1,4 @@
 Список тем для изучения
 
 1) ASP.NET MVC	Введение в ASP.NET MVC 4.	Basic	6	\\FS\library\Library\IKC\ASP.NET MVC
-2) ENTITY FRAMEWORK	Введение в EF (model first, database first, code first, использование EF в разработке приложений).	Basic	6	\\FS\library\Library\IKC\EntityFramework
+2) GIT	Работа с Git (описание основных команд).	Advanced	6	\\FS\library\Library\IKC\Git
