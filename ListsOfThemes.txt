@@ -1,3 +1,4 @@
 —писок тем дл€ изучени€
 
 1) ASP.NET MVC	¬ведение в ASP.NET MVC 4.	Basic	6	\\FS\library\Library\IKC\ASP.NET MVC
+2) ENTITY FRAMEWORK	¬ведение в EF (model first, database first, code first, использование EF в разработке приложений).	Basic	6	\\FS\library\Library\IKC\EntityFramework
